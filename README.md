@@ -10,6 +10,9 @@ Clicking the Generate Password button allows the user to walk through prompts an
 
 The randomly generated password will appear within the text box in the center of the website.
 
+![image](https://github.com/bolfati/password-generator/assets/141889992/5627631d-021c-432f-a577-45dcdbd7d28b)
+
+
 ## Credits
 
 https://www.w3schools.com/
